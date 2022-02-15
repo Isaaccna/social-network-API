@@ -3,7 +3,7 @@ const { User } = require('../models');
 const userController = {
 
     //get all users
-    getAllUser(req,res) {
+    getAllUsers(req,res) {
         User.find({})
         .populate({
             path: 'thoughts',
@@ -99,5 +99,5 @@ const userController = {
       }
     }
    
-module.exports = UserController;
+module.exports = userController;
       
