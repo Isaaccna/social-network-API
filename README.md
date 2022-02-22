@@ -15,12 +15,15 @@
 
 
   ## Tests
-[https://watch.screencastify.com/v/qlB0mazyhHHMAiFfdUTT](walkthrough - get all)
-[https://watch.screencastify.com/v/6dNenc6aGBnBOuVzWGrV](walkthrough - get 
-one)
-[https://watch.screencastify.com/v/Mr1ot06D5dM8wwweMUsX](walkthrough - POST user, friend, thought, reaction / DELETE user, friend)
-[https://drive.google.com/file/d/1_XdpFRSkth6_qk5hoMYV0ZERc7vRO4sp/view](walkthrough - POST, UPDATE and DELETE User and Thought)
-[https://drive.google.com/file/d/1DTZ0V3U_Ew-_hGxw91vXNiERB9XcaE2B/view](walktthough DELETE reaction)
+[Walkthrough - get all](https://watch.screencastify.com/v/qlB0mazyhHHMAiFfdUTT) 
+
+[Walkthrough - get one](https://watch.screencastify.com/v/6dNenc6aGBnBOuVzWGrV)
+
+[Walkthrough - POST user, friend, thought, reaction / DELETE user, friend](https://watch.screencastify.com/v/Mr1ot06D5dM8wwweMUsX)
+
+[Walkthrough - POST, UPDATE and DELETE User and Thought](https://drive.google.com/file/d/1_XdpFRSkth6_qk5hoMYV0ZERc7vRO4sp/view)
+
+[Walkthrough DELETE reaction](https://drive.google.com/file/d/1DTZ0V3U_Ew-_hGxw91vXNiERB9XcaE2B/view)
 
   ## Contributing
    Isaaccna
