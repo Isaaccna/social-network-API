@@ -1,7 +1,5 @@
 # social-network-API
 
-# The-Tech_Blog
-
 ## Overview
   This project was designed as a homework assignment for my coding bootcamp. The challenge was yo builf an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This project required the user of Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
